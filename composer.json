@@ -1,0 +1,18 @@
+{
+  "name": "hoang/starter-1",
+  "authors": [
+    {
+      "name": "Cong Hoang Tran",
+      "email": "hoang.tran02@base.vn"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "."
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.0",
+    "ext-pdo": "*"
+  }
+}
